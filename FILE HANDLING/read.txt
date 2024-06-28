@@ -1,0 +1,4 @@
+This is a text file.
+you are going to read this.
+The content can be read.
+python django
